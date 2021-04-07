@@ -4,6 +4,10 @@ Release for multimeter
 ## installation
 
 ## release notes
+
+### v0.2.3-beta
+#### 更新
+* 添加了串口驱动程序
 ### v0.2.1-beta
 #### 修复
 * 计算结果时数组越界的bug

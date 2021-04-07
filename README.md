@@ -6,7 +6,7 @@ Release for multimeter
 ## release notes
 
 ### v0.2.2-beta
-#### 更新
+#### 功能
 * 添加了串口驱动程序
 ### v0.2.1-beta
 #### 修复
